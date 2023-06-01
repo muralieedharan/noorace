@@ -838,6 +838,44 @@ section.middle-w3ls img {
     min-height: 380px;
 }
 
+.banner3-w3ls {
+    background: url(../images/bg3.png) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    -moz-background-size: cover;
+    min-height: 380px;
+}
+
+.banner4-w3ls {
+    background: url(../images/bg4.png) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    -moz-background-size: cover;
+    min-height: 380px;
+}
+.banner5-w3ls {
+    background: url(../images/bg5.jpg) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    -moz-background-size: cover;
+    min-height: 380px;
+}
+.banner6-w3ls {
+    background: url(../images/bg6.png) no-repeat center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    -moz-background-size: cover;
+    min-height: 380px;
+}
+
 /* page details */
 
 .breadcrumb li a {
