@@ -164,7 +164,7 @@ a.nav-link {
 }
 
 a.nav-link:hover {
-    color: #0B5BA5 !important;
+    color: #f1cf69 !important;
 }
 
 .dropdown-item {
@@ -287,8 +287,8 @@ a.nav-link:hover {
     font-size: 0.9em;
 }
 .cont-btn a:hover, .cont-btn a.active {
-    background: #0B5BA5;
-    border: 2px solid #0B5BA5;
+    background: #f1cf69;
+    border: 2px solid #f1cf69;
 }
 /* //banner social icons */
 
@@ -323,7 +323,7 @@ a.nav-link:hover {
 
 .agileits-services-grids i {
     font-size: 2em;
-    color: #0B5BA5;
+    color: #f1cf69;
     text-align: center;
 }
 
@@ -334,7 +334,7 @@ a.nav-link:hover {
     display: inline-block;
 }
 a.service-btn {
-    background: #0B5BA5;
+    background: #f1cf69;
     color: #fff;
     font-size: 14px;
     text-transform: capitalize;
@@ -466,12 +466,12 @@ a.service-btn {
     font-weight: 600;
     letter-spacing: 1px;
     font-size: 15px;
-    background: #0B5BA5;
+    background: #f1cf69;
 }
 .log-in a:hover {
-    border: 2px solid #ffffff;
+    border: 2px solid #f1cf69;
     background: none;
-    color: #ffffff;
+    color: #f1cf69;
 }
 p.invest {
     width: 65%;
@@ -512,7 +512,7 @@ p.invest {
     width: 100%;
 }
 .feedback-img-info h5 {
-    color:#0B5BA5;
+    color:#f1cf69;
     font-size: 1em;
     letter-spacing: 1px;
     font-weight: 600;
@@ -558,7 +558,7 @@ h3.title {
 }
 h3.title:before {
     position: absolute;
-    background: #5eb1fe;
+    background: #f1cf69;
     width: 8%;
     height: 16px;
     bottom: 30px;
@@ -574,7 +574,7 @@ h2.title {
 }
 h2.title:before {
     position: absolute;
-    background: #5eb1fe;
+    background: #f1cf69;
     width: 8%;
     height: 16px;
     bottom: 30px;
@@ -685,7 +685,7 @@ footer {
 	background: #000;
 }
 .wthree-left-right h4 {
-    color: #ffffff;
+    color: #f1cf69;
 	    letter-spacing: 1px;
 }
 .footer-icons ul li {
@@ -864,7 +864,7 @@ section.middle-w3ls img {
 }
 
 .about-grids {
-    border-left: 3px solid #0B5BA5;
+    border-left: 3px solid #f1cf69;
     flex-basis: 48%;
     -webkit-flex-basis: 48%;
 }
@@ -879,7 +879,7 @@ p.paragraphf {
 }
 
 p.paragraphf i {
-    color: #0B5BA5;
+    color: #f1cf69;
     font-size: 22px;
     vertical-align: middle;
     margin-right: 10px;
@@ -903,7 +903,7 @@ p.paragraphf i {
 .team-grids h6{
     font-size: 0.9em;
     font-weight: 400;
-    color: #ffffff;
+    color: #f1cf69;
     letter-spacing: 1px;
     margin: 1em 0;
 }
@@ -929,7 +929,7 @@ p.paragraphf i {
     margin: 0;
     left: 15px;
     background: rgb(17, 18, 19);
-    border-top:4px solid #0B5BA5;
+    border-top:4px solid #f1cf69;
     padding: 1em;
     -webkit-transition: .5s all;
     transition: .5s all;
@@ -967,7 +967,7 @@ h5.card-title {
 /* contact page */
 .contact_wthreerow h4 {
     font-size: 26px;
-    color: #0B5BA5;
+    color: #f1cf69;
     letter-spacing: 1px;
 }
 
@@ -991,7 +991,7 @@ h5.card-title {
     letter-spacing: 1px;
     margin-top: 1em;
     color: #fff;
-    background:#0B5BA5;
+    background:#f1cf69;
     border: none;
     -webkit-transition: .5s all;
     -moz-transition: .5s all;
@@ -1019,7 +1019,7 @@ ul.contact_info li a:hover {
 
 ul.contact_info li i {
     font-size: 18px;
-    color: #0B5BA5;
+    color: #f1cf69;
 }
 
 .w3ls_map iframe {
@@ -1423,7 +1423,7 @@ figure.effect-apollo:hover p {
 
 @media(max-width: 991px) {
     button.navbar-toggler {
-        background:#b6dcff;
+        background:#f1cf69;
         border-radius: 0;
     }
     .about .d-flex {
