@@ -558,7 +558,7 @@ h3.title {
 }
 h3.title:before {
     position: absolute;
-    background: #5eb1fe;
+    /*background: #5eb1fe;*/
     width: 8%;
     height: 16px;
     bottom: 30px;
@@ -574,7 +574,7 @@ h2.title {
 }
 h2.title:before {
     position: absolute;
-    background: #5eb1fe;
+   /* background: #5eb1fe;*/
     width: 8%;
     height: 16px;
     bottom: 30px;
